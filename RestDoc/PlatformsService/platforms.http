@@ -1,0 +1,8 @@
+POST http://localhost:5000/api/platforms 
+content-type: application/json
+
+{
+  "name": "PlatformTest",
+  "publisher": "PublisherTest",
+  "cost": "Free"
+}
